@@ -26,26 +26,17 @@
 
 ## 🚀 Featured Projects
 
-### [Go File Share Platform](https://github.com/fakubwoy/go-file-share)
-```bash
-# Start the development environment (you'll need to complete the command)
-docker-compose up --build
-```
-Secure file-sharing with JWT auth and Redis caching.
+### 🔐 [Go File Share Platform](https://github.com/fakubwoy/22BKT0054_Backend)
+A secure, high-performance file-sharing platform built with Go.  
+Uses JWT authentication, Redis caching, and supports AWS S3 integration. Runs effortlessly with Docker Compose.
 
-### ChatBox - Real-Time Chat
-```bash
-# Launch the AI chat backend (complete with your preferred flags)
-python server.py
-```
-Real-time chat application with modern features.
+### 💬 [ChatBox – Real-Time Chat with AI](https://github.com/fakubwoy/chatbox)
+A sleek real-time chat app with an integrated AI chatbot.  
+Built using WebSockets and React. Just run the backend with Python and start chatting.
 
-### C-Compiler Visualizer
-```bash
-# Build the compiler (add your favorite options)
-make build
-```
-Complex and powerful compiler visualization tool.
+### 🛠️ [C-Compiler Visualizer](https://github.com/fakubwoy/c-compiler)
+Visualizes every stage of C compilation — from lexical analysis to x86 assembly.  
+Ideal for systems programming students and compiler geeks.
 
 ## 📊 GitHub Stats
 <div align="center"> 
@@ -60,5 +51,5 @@ Complex and powerful compiler visualization tool.
 
 ## 📫 Contact Me
 * 📧 **Email**: farhaan.8586@outlook.com
-* 💼 **LinkedIn**: Let's connect here
-* 🐦 **Twitter**: Coming soon
+* 💼 **LinkedIn**: [Let's connect here](https://www.linkedin.com/in/farhaan-khan-1629202b8/)
+* 🐦 **Twitter**: [@fk8586](https://x.com/fk8586)
