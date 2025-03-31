@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Farhaan Khan
+# 👋 Hi, I'm Farhaan
 
 **Blockchain Developer | AI Specialist | Full-Stack Engineer**  
 📍 Hyderabad, India | 🎓 CS @ VIT | ✉️ [farhaan.8586@outlook.com](mailto:farhaan.8586@outlook.com)  
