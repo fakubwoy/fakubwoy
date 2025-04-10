@@ -40,7 +40,6 @@ Ideal for systems programming students and compiler geeks.
 
 ## 📊 GitHub Stats
 <div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakubwoy&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api?username=fakubwoy&show_icons=true&theme=nightowl"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakubwoy&layout=compact&theme=nightowl"> 
 </div>
