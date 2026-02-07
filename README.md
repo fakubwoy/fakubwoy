@@ -38,11 +38,6 @@ Built using WebSockets and React. Just run the backend with Python and start cha
 Visualizes every stage of C compilation — from lexical analysis to x86 assembly.  
 Ideal for systems programming students and compiler geeks.
 
-## 📊 GitHub Stats
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=fakubwoy&show_icons=true&theme=nightowl"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakubwoy&layout=compact&theme=nightowl"> 
-</div>
 
 ## 🎯 Currently
 * Building blockchain systems with robust security features
