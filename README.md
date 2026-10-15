@@ -34,9 +34,11 @@ interests: [LLM agents, RAG, Full-stack, Android + hardware, Computer Vision]
 | | |
 |---|---|
 | **[Reznt](https://reznt.com)** · ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Multi-tenant AI revenue agent that sells, takes orders and recovers missed calls for paying businesses across WhatsApp, Instagram, Facebook and phone. Top contributor: 355 of 738 commits, 142 merged PRs. Durable workflows, Meta OAuth, Exotel voice, usage billing, hybrid search, LLM evals. *(private repo)* |
+| **[agent-eval-harness](https://github.com/fakubwoy/agent-eval-harness)** · ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) | Open source harness that runs 42 scripted support conversations against a fake shop backend and scores tool-calling agents on task success, policy, handoff, latency and cost. First run: gpt-oss-120b 97.6% at $0.0014 per scenario, Claude Haiku 4.5 90.5%, GPT-4.1 mini 83.3%. Recorded calls, so CI replays it with no API keys. |
 | **[Droptor](https://droptor.in)** · ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![BLE](https://img.shields.io/badge/-BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white) | **1st prize, Glaucoma Society of India Hackathon 2026.** BLE smart-cap eye-drop adherence system: offline-first Flutter patient app plus a doctor dashboard with live updates. Live on the Play Store and App Store. *(private repo)* |
 | **VisioVR** · ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![OpenGL](https://img.shields.io/badge/-OpenGL_ES-5586A4?style=flat-square&logo=opengl&logoColor=white) | **2nd prize, same hackathon.** Built solo: Android app that simulates 12 eye conditions on the live camera in a phone VR headset with custom shaders at 60 to 120 fps. *(private repo)* |
 | **[Visor](https://github.com/sidhant-sriv/visor)** · ![VSCode](https://img.shields.io/badge/-VS_Code_API-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) | VS Code extension that draws live flowcharts as you move through code, with complexity overlays and two-way line jumping. 1.4k+ installs, 10 merged PRs. |
+| **[rock-vs-docker](https://github.com/fakubwoy/rock-vs-docker)** · ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Rockcraft-E95420?style=flat-square&logo=ubuntu&logoColor=white) | Same Flask API packaged three ways and scanned with Trivy: 1.12 GB and 3,609 CVEs with a basic Dockerfile, 137 MB and 179 hardened, 80 in a chiselled rock with zero from OS packages. |
 | **[Quantum Deepfake Detection](https://github.com/fakubwoy/QuantDeepfakeDetection)** · ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white) | Research code for the IEEE Access paper below. |
 
 ---
@@ -81,8 +83,7 @@ Hybrid quantum-classical architecture for video deepfake detection: **QAOA-based
 <img src="https://img.shields.io/badge/Stats-161B22?style=flat-square&logo=github&logoColor=white" /> &nbsp; **GitHub**
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fakubwoy&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakubwoy&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img src="assets/stats.svg" alt="GitHub activity, refreshed daily by a GitHub Action" />
 </div>
 
 <div align="center">
