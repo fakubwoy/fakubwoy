@@ -1,93 +1,116 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Farhaan;I+build+AI+agents+that+ship;1st+%2B+2nd+at+GSI+Hackathon+2026;Published+in+IEEE+Access" alt="Typing SVG" />
+<a href="https://fakubwoy.github.io/portfolio/"><img src="assets/hero.svg" width="100%" alt="Farhaan Khan, software engineer, with a Great Ball and six Pokemon walking through the grass" /></a>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhaan-khan-1629202b8)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fakubwoy.github.io/portfolio/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Farhaan8586/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaan.khan.10987654321@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fk8586)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-16161A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzZBOTNGRiIgZD0iTTQuOTggMy41YTIuNSAyLjUgMCAxIDEgMCA1IDIuNSAyLjUgMCAwIDEgMC01ek0zIDkuNzVoNFYyMUgzek05LjUgOS43NWgzLjh2MS41NGguMDVjLjUzLTEgMS44My0yLjA1IDMuNzctMi4wNSA0LjAzIDAgNC43OCAyLjY1IDQuNzggNi4xVjIxaC00di00Ljk4YzAtMS4xOS0uMDItMi43Mi0xLjY2LTIuNzItMS42NiAwLTEuOTEgMS4zLTEuOTEgMi42M1YyMWgtNHoiLz48L3N2Zz4%3D)](https://linkedin.com/in/farhaan-khan-1629202b8)
+[![Portfolio](https://img.shields.io/badge/Portfolio-16161A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzZBOTNGRiIgZD0iTTEyIDJhMTAgMTAgMCAwIDEgMTAgOWgtNi4yYTQgNCAwIDAgMC03LjYgMEgyYTEwIDEwIDAgMCAxIDEwLTl6Ii8%2BPHBhdGggZmlsbD0iI0VERURFQSIgZD0iTTIgMTNoNi4yYTQgNCAwIDAgMCA3LjYgMEgyMmExMCAxMCAwIDAgMS0yMCAweiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjIuMiIgZmlsbD0iI0VERURFQSIvPjwvc3ZnPg%3D%3D)](https://fakubwoy.github.io/portfolio/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-16161A?style=for-the-badge&logo=leetcode&logoColor=6A93FF)](https://leetcode.com/Farhaan8586/)
+[![Email](https://img.shields.io/badge/Email-16161A?style=for-the-badge&logo=gmail&logoColor=6A93FF)](mailto:farhaan.khan.10987654321@gmail.com)
+[![X](https://img.shields.io/badge/X-16161A?style=for-the-badge&logo=x&logoColor=6A93FF)](https://x.com/fk8586)
 
 </div>
 
----
+Software engineer at Azntai, building Reznt: an AI agent paying businesses run on WhatsApp, Instagram and phone. I also ship med-tech at Alfaleus. B.Tech CSE from VIT Vellore, CGPA 9.04.
 
-```yaml
-name:     Farhaan Khan
-role:     Software Engineer
-based_in: Hyderabad, India
-degree:   B.Tech CSE @ VIT Vellore (2026, CGPA 9.04)
+## Wild encounter
 
-currently:
-  - Building Reznt at Azntai, an AI agent paying businesses run on WhatsApp, Instagram and phone
-  - Shipping med-tech at Alfaleus: Droptor (smart eye-drop cap) and VisioVR
+These six change every few hours. Pick one and it will be waiting for you on my portfolio, then click it there to throw a ball.
 
-interests: [LLM agents, RAG, Full-stack, Android + hardware, Computer Vision]
-```
+<!-- safari:start -->
+<table><tr>
+<td align="center" width="16%"><a href="https://fakubwoy.github.io/portfolio/?wild=308"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/308.gif" height="72" alt="Catch Medicham" title="Catch Medicham"></a><br><sub><a href="https://fakubwoy.github.io/portfolio/?wild=308">Medicham</a></sub></td>
+<td align="center" width="16%"><a href="https://fakubwoy.github.io/portfolio/?wild=77"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/77.gif" height="72" alt="Catch Ponyta" title="Catch Ponyta"></a><br><sub><a href="https://fakubwoy.github.io/portfolio/?wild=77">Ponyta</a></sub></td>
+<td align="center" width="16%"><a href="https://fakubwoy.github.io/portfolio/?wild=338"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/338.gif" height="72" alt="Catch Solrock" title="Catch Solrock"></a><br><sub><a href="https://fakubwoy.github.io/portfolio/?wild=338">Solrock</a></sub></td>
+<td align="center" width="16%"><a href="https://fakubwoy.github.io/portfolio/?wild=288"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/288.gif" height="72" alt="Catch Vigoroth" title="Catch Vigoroth"></a><br><sub><a href="https://fakubwoy.github.io/portfolio/?wild=288">Vigoroth</a></sub></td>
+<td align="center" width="16%"><a href="https://fakubwoy.github.io/portfolio/?wild=618"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/618.gif" height="72" alt="Catch Stunfisk" title="Catch Stunfisk"></a><br><sub><a href="https://fakubwoy.github.io/portfolio/?wild=618">Stunfisk</a></sub></td>
+<td align="center" width="16%"><a href="https://fakubwoy.github.io/portfolio/?wild=335"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/335.gif" height="72" alt="Catch Zangoose" title="Catch Zangoose"></a><br><sub><a href="https://fakubwoy.github.io/portfolio/?wild=335">Zangoose</a></sub></td>
+</tr></table>
+<!-- safari:end -->
 
----
+## Party
 
-<img src="https://img.shields.io/badge/Projects-161B22?style=flat-square&logo=github&logoColor=white" /> &nbsp; **Selected Work**
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://reznt.com"><img src="assets/sprites/441.gif" height="64" align="right" alt="Chatot"></a>
 
-| | |
-|---|---|
-| **[Reznt](https://reznt.com)** · ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Multi-tenant AI revenue agent that sells, takes orders and recovers missed calls for paying businesses across WhatsApp, Instagram, Facebook and phone. Top contributor: 355 of 738 commits, 142 merged PRs. Durable workflows, Meta OAuth, Exotel voice, usage billing, hybrid search, LLM evals. *(private repo)* |
-| **[agent-eval-harness](https://github.com/fakubwoy/agent-eval-harness)** · ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) | Open source harness that runs 42 scripted support conversations against a fake shop backend and scores tool-calling agents on task success, policy, handoff, latency and cost. First run: gpt-oss-120b 97.6% at $0.0014 per scenario, Claude Haiku 4.5 90.5%, GPT-4.1 mini 83.3%. Recorded calls, so CI replays it with no API keys. |
-| **[Droptor](https://droptor.in)** · ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![BLE](https://img.shields.io/badge/-BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white) | **1st prize, Glaucoma Society of India Hackathon 2026.** BLE smart-cap eye-drop adherence system: offline-first Flutter patient app plus a doctor dashboard with live updates. Live on the Play Store and App Store. *(private repo)* |
-| **VisioVR** · ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![OpenGL](https://img.shields.io/badge/-OpenGL_ES-5586A4?style=flat-square&logo=opengl&logoColor=white) | **2nd prize, same hackathon.** Built solo: Android app that simulates 12 eye conditions on the live camera in a phone VR headset with custom shaders at 60 to 120 fps. *(private repo)* |
-| **[Visor](https://github.com/sidhant-sriv/visor)** · ![VSCode](https://img.shields.io/badge/-VS_Code_API-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) | VS Code extension that draws live flowcharts as you move through code, with complexity overlays and two-way line jumping. 1.4k+ installs, 10 merged PRs. |
-| **[rock-vs-docker](https://github.com/fakubwoy/rock-vs-docker)** · ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Rockcraft-E95420?style=flat-square&logo=ubuntu&logoColor=white) | Same Flask API packaged three ways and scanned with Trivy: 1.12 GB and 3,609 CVEs with a basic Dockerfile, 137 MB and 179 hardened, 80 in a chiselled rock with zero from OS packages. |
-| **[Quantum Deepfake Detection](https://github.com/fakubwoy/QuantDeepfakeDetection)** · ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white) | Research code for the IEEE Access paper below. |
+**[Reznt](https://reznt.com)**<br>
+<sub>Next.js / TypeScript / PostgreSQL</sub>
 
----
+Multi-tenant AI revenue agent that sells, takes orders and recovers missed calls across WhatsApp, Instagram, Facebook and phone. Top contributor: 355 of 738 commits, 142 merged PRs. *Private repo.*
+</td>
+<td width="50%" valign="top">
+<a href="https://droptor.in"><img src="assets/sprites/134.gif" height="64" align="right" alt="Vaporeon"></a>
 
-<img src="https://img.shields.io/badge/IEEE_Access-00629B?style=flat-square&logo=ieee&logoColor=white" /> &nbsp; **Publication**
+**[Droptor](https://droptor.in)**<br>
+<sub>Flutter / BLE</sub>
 
-> **A Quantum-Hybrid Framework for Enhanced Deepfake Detection**  
-> *Integrating QAOA-Based Feature Selection with Quantum-Inspired Attention Mechanisms*
+**1st prize, Glaucoma Society of India Hackathon 2026.** BLE smart-cap eye-drop adherence system with an offline-first patient app and a live doctor dashboard. On the Play Store and App Store. *Private repo.*
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/fakubwoy/agent-eval-harness"><img src="assets/sprites/65.gif" height="64" align="right" alt="Alakazam"></a>
 
-**IEEE Access, Vol. 14, pp. 17853 to 17873, 2026** &nbsp;·&nbsp; [DOI: 10.1109/ACCESS.2026.3659021](https://doi.org/10.1109/ACCESS.2026.3659021)
+**[agent-eval-harness](https://github.com/fakubwoy/agent-eval-harness)**<br>
+<sub>TypeScript / Vitest</sub>
 
-Hybrid quantum-classical architecture for video deepfake detection: **QAOA-based feature selection** plus **quantum-inspired attention**. +2.5 points accuracy over classical baselines on FaceForensics++ and 45% lower calibration error.
+Runs 42 scripted support conversations against a fake shop backend and scores tool-calling agents on task success, policy, handoff, latency and cost. CI replays recorded calls with no API keys.
+</td>
+<td valign="top">
+<a href="https://github.com/fakubwoy/ledger-platform"><img src="assets/sprites/52.gif" height="64" align="right" alt="Meowth"></a>
 
----
+**[ledger-platform](https://github.com/fakubwoy/ledger-platform)**<br>
+<sub>Java / Spring Boot / Kafka / Kubernetes</sub>
 
-<img src="https://img.shields.io/badge/Stack-21262D?style=flat-square&logo=githubactions&logoColor=white" /> &nbsp; **Tech**
+Double-entry [payments ledger](https://github.com/fakubwoy/ledger-service) with idempotent APIs and a transactional outbox, on a Kubernetes platform with Argo CD GitOps, full observability and scripted failure drills.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://fakubwoy.github.io/portfolio/#work"><img src="assets/sprites/469.gif" height="64" align="right" alt="Yanmega"></a>
 
-<div align="center">
+**VisioVR**<br>
+<sub>Kotlin / OpenGL ES</sub>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+**2nd prize, same hackathon, built solo.** Simulates 12 eye conditions on the live camera in a phone VR headset, with custom shaders at 60 to 120 fps. *Private repo.*
+</td>
+<td valign="top">
+<a href="https://github.com/fakubwoy/QuantDeepfakeDetection"><img src="assets/sprites/132.gif" height="64" align="right" alt="Ditto"></a>
 
-</div>
+**[Quantum Deepfake Detection](https://github.com/fakubwoy/QuantDeepfakeDetection)**<br>
+<sub>PyTorch / Qiskit</sub>
 
----
+Spotting the impostors. Research code for my [IEEE Access paper](https://doi.org/10.1109/ACCESS.2026.3659021): QAOA feature selection plus quantum-inspired attention, +2.5 points accuracy over classical baselines on FaceForensics++ and 45% lower calibration error.
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/Stats-161B22?style=flat-square&logo=github&logoColor=white" /> &nbsp; **GitHub**
+<details>
+<summary><b>In the PC box</b></summary>
+<br>
 
-<div align="center">
-  <img src="assets/stats.svg" alt="GitHub activity, refreshed daily by a GitHub Action" />
-</div>
+<a href="https://github.com/sidhant-sriv/visor"><img src="assets/sprites/137.gif" height="44" alt="Porygon"></a> **[Visor](https://github.com/sidhant-sriv/visor)**: VS Code extension that draws live flowcharts as you move through code. 1.4k+ installs, 10 merged PRs.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fakubwoy&theme=github-dark-blue&hide_border=true" />
-</div>
+<a href="https://github.com/fakubwoy/rock-vs-docker"><img src="assets/sprites/524.gif" height="44" alt="Roggenrola"></a> **[rock-vs-docker](https://github.com/fakubwoy/rock-vs-docker)**: the same Flask API packaged three ways and scanned with Trivy. 1.12 GB and 3,609 CVEs with a basic Dockerfile, 80 in a chiselled rock with zero from OS packages.
 
----
+</details>
+
+## Trainer card
+
+<a href="https://github.com/fakubwoy?tab=repositories"><img src="assets/stats.svg" width="100%" alt="Trainer card with contributions, streak, merged PRs, repos, stars and a contribution calendar, refreshed by a GitHub Action" /></a>
+
+**Badges earned**
+
+[![1st prize](https://img.shields.io/badge/1st_prize-GSI_Hackathon_2026-1E46C8?style=flat-square)](https://droptor.in)
+[![2nd prize](https://img.shields.io/badge/2nd_prize-GSI_Hackathon_2026-1E46C8?style=flat-square)](https://fakubwoy.github.io/portfolio/#work)
+[![IEEE Access](https://img.shields.io/badge/IEEE_Access-Vol._14,_2026-00629B?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1109/ACCESS.2026.3659021)
+
+<a href="https://github.com/fakubwoy?tab=achievements"><img src="assets/badges/pull-shark.png" width="64" alt="Pull Shark x3" title="Pull Shark x3"></a>
+<a href="https://github.com/fakubwoy?tab=achievements"><img src="assets/badges/pair-extraordinaire.png" width="64" alt="Pair Extraordinaire x2" title="Pair Extraordinaire x2"></a>
+<a href="https://github.com/fakubwoy?tab=achievements"><img src="assets/badges/quickdraw.png" width="64" alt="Quickdraw" title="Quickdraw"></a>
+<a href="https://github.com/fakubwoy?tab=achievements"><img src="assets/badges/yolo.png" width="64" alt="YOLO" title="YOLO"></a>
+
+**Moves**
+
+<a href="https://fakubwoy.github.io/portfolio/"><img src="assets/stack.svg" width="560" alt="Python, TypeScript, Java, Kotlin, Dart, Go, C++, Next.js, React, Flutter, FastAPI, Spring, PostgreSQL, Redis, Kafka, Kubernetes, Docker, AWS, PyTorch" /></a>
