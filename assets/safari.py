@@ -1,13 +1,12 @@
 """The wild Pokemon on this profile. A README cannot run code, so each sprite links to the safari on
 my portfolio, which spawns that exact one to catch. Rewrites the safari block in README.md and
-assets/hero.svg, where my party walks past. The hero is fixed so the sprites do not bloat git history."""
-import base64, html, json, os, random, re, urllib.request
+assets/hero.svg."""
+import html, json, os, random, re, urllib.request
 
 from gen_stats import HERE, fonts
 
 README = os.path.join(HERE, "..", "README.md")
 PORTFOLIO = "https://fakubwoy.github.io/portfolio/"
-PARTY = [441, 134, 65, 52, 469, 132]
 WILD_COUNT = 6
 GEN5_MAX = 649
 SHINY_ODDS = 1 / 40
@@ -49,29 +48,21 @@ def block(wild):
 
 
 def hero():
-    grass = "".join(f'<path d="M{x} 272l4-{8 + x % 7}l4 {8 + x % 7}" fill="#1E46C8"/>' for x in range(14, 1000, 39))
-    walk, step = 18, 3
-    mons = []
-    for n, i in enumerate(PARTY):
-        gif = base64.b64encode(open(os.path.join(HERE, "sprites", f"{i}.gif"), "rb").read()).decode()
-        mons.append(f'<g class="mon" style="animation-delay:-{n * step}s"><image href="data:image/gif;base64,{gif}" x="0" y="196" width="76" height="76" preserveAspectRatio="xMidYMax meet" style="image-rendering:pixelated"/></g>')
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Farhaan Khan, software engineer, with a Great Ball and six Pokemon walking through the grass">
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Farhaan Khan, software engineer, with a Great Ball">
 <style>{fonts()}
 .n{{font:600 68px Geist,sans-serif;letter-spacing:-2.5px;fill:#EDEDEA}}.r{{font:400 17px 'Geist Mono',monospace;fill:#9A9AA2}}.a{{font:400 14px 'Geist Mono',monospace;fill:#6A93FF}}
-.mon{{animation:walk {walk}s linear infinite}}.ball{{transform-origin:830px 170px;animation:shake 4.2s ease-in-out infinite}}
-@keyframes walk{{from{{transform:translateX(1040px)}}to{{transform:translateX(-120px)}}}}
+.ball{{transform-origin:830px 170px;animation:shake 4.2s ease-in-out infinite}}
 @keyframes shake{{0%,62%,100%{{transform:rotate(0)}}68%{{transform:rotate(-13deg)}}76%{{transform:rotate(11deg)}}84%{{transform:rotate(-7deg)}}92%{{transform:rotate(4deg)}}}}
-@media (prefers-reduced-motion:reduce){{.mon{{animation-play-state:paused}}.ball{{animation:none}}}}
+@media (prefers-reduced-motion:reduce){{.ball{{animation:none}}}}
 </style>
-<rect width="1000" height="280" fill="#0E0E10"/>
+<rect width="1000" height="200" fill="#0E0E10"/>
 <text x="40" y="62" class="a">HYDERABAD, INDIA / VIT '26 / IEEE ACCESS AUTHOR</text>
 <text x="36" y="132" class="n">Farhaan Khan</text>
 <text x="40" y="168" class="r">Building production AI agents and med-tech.</text>
 <g class="ball"><circle cx="830" cy="100" r="74" fill="#E6E6E2"/><path d="M756 100a74 74 0 0 1 148 0z" fill="#2B5DE6"/>
 <path d="M782 44l22 22h-16l-20-14zM878 44l-22 22h16l20-14z" fill="#E0301E"/>
 <rect x="756" y="93" width="148" height="14" fill="#0E0E11"/><circle cx="830" cy="100" r="24" fill="#0E0E11"/><circle cx="830" cy="100" r="14" fill="#F4F4F1"/></g>
-<rect y="272" width="1000" height="8" fill="#1E46C8"/>{grass}
-{"".join(mons)}
+<rect y="196" width="1000" height="4" fill="#1E46C8"/>
 </svg>
 '''
 
