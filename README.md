@@ -15,14 +15,14 @@ Software engineer at Azntai, building Reznt: an AI agent paying businesses run o
 These six change every few hours. Pick one and it will be waiting for you on my portfolio, then click it there to throw a ball.
 
 <!-- safari:start -->
-<table><tr>
-<td align="center" width="16%"><a href="https://fakubwoy.github.io/portfolio/?wild=98"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/98.gif" height="72" alt="Catch Krabby" title="Catch Krabby"></a><br><sub><a href="https://fakubwoy.github.io/portfolio/?wild=98">Krabby</a></sub></td>
-<td align="center" width="16%"><a href="https://fakubwoy.github.io/portfolio/?wild=572"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/572.gif" height="72" alt="Catch Minccino" title="Catch Minccino"></a><br><sub><a href="https://fakubwoy.github.io/portfolio/?wild=572">Minccino</a></sub></td>
-<td align="center" width="16%"><a href="https://fakubwoy.github.io/portfolio/?wild=4"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" height="72" alt="Catch Charmander" title="Catch Charmander"></a><br><sub><a href="https://fakubwoy.github.io/portfolio/?wild=4">Charmander</a></sub></td>
-<td align="center" width="16%"><a href="https://fakubwoy.github.io/portfolio/?wild=14"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/14.gif" height="72" alt="Catch Kakuna" title="Catch Kakuna"></a><br><sub><a href="https://fakubwoy.github.io/portfolio/?wild=14">Kakuna</a></sub></td>
-<td align="center" width="16%"><a href="https://fakubwoy.github.io/portfolio/?wild=385"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/385.gif" height="72" alt="Catch Jirachi" title="Catch Jirachi"></a><br><sub><a href="https://fakubwoy.github.io/portfolio/?wild=385">Jirachi (rare)</a></sub></td>
-<td align="center" width="16%"><a href="https://fakubwoy.github.io/portfolio/?wild=199"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/199.gif" height="72" alt="Catch Slowking" title="Catch Slowking"></a><br><sub><a href="https://fakubwoy.github.io/portfolio/?wild=199">Slowking</a></sub></td>
-</tr></table>
+<p align="center">
+<a href="https://fakubwoy.github.io/portfolio/?wild=244"><img src="assets/cards/244.svg" width="15%" alt="Catch Entei" title="Catch Entei"></a>
+<a href="https://fakubwoy.github.io/portfolio/?wild=347"><img src="assets/cards/347.svg" width="15%" alt="Catch Anorith" title="Catch Anorith"></a>
+<a href="https://fakubwoy.github.io/portfolio/?wild=282"><img src="assets/cards/282.svg" width="15%" alt="Catch Gardevoir" title="Catch Gardevoir"></a>
+<a href="https://fakubwoy.github.io/portfolio/?wild=268"><img src="assets/cards/268.svg" width="15%" alt="Catch Cascoon" title="Catch Cascoon"></a>
+<a href="https://fakubwoy.github.io/portfolio/?wild=621&shiny=1"><img src="assets/cards/621s.svg" width="15%" alt="Catch Druddigon" title="Catch Druddigon"></a>
+<a href="https://fakubwoy.github.io/portfolio/?wild=154"><img src="assets/cards/154.svg" width="15%" alt="Catch Meganium" title="Catch Meganium"></a>
+</p>
 <!-- safari:end -->
 
 ## Party

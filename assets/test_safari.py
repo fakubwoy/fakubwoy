@@ -15,10 +15,21 @@ class Safari(unittest.TestCase):
             ids = [m["id"] for m in safari.encounter(random.Random(seed))]
             self.assertEqual(len(set(ids)), safari.WILD_COUNT)
 
-    def test_block_links_sprites_to_the_portfolio(self):
+    def test_block_links_cards_to_the_portfolio(self):
         out = safari.block([{"id": 7, "name": "Squirtle", "shiny": True, "rare": False}])
         self.assertIn('href="https://fakubwoy.github.io/portfolio/?wild=7&shiny=1"', out)
-        self.assertIn("/shiny/7.gif", out)
+        self.assertIn('src="assets/cards/7s.svg"', out)
+
+    def test_fit_caps_upscaling_and_big_sprites(self):
+        self.assertEqual(safari.fit(30, 20), 2)
+        self.assertEqual(safari.fit(208, 100), 0.5)
+
+    def test_card_tags_rare_in_gold(self):
+        gif = b"GIF89a" + (40).to_bytes(2, "little") + (40).to_bytes(2, "little")
+        svg = safari.card({"id": 385, "name": "Jirachi", "shiny": False, "rare": True, "type": "steel"}, gif)
+        self.assertIn(">RARE<", svg)
+        self.assertIn(safari.GOLD, svg)
+        self.assertIn(">#385<", svg)
 
     def test_streak(self):
         self.assertEqual(gen_stats.streak([1, 0, 2, 3, 0]), 2)
