@@ -2,11 +2,9 @@
 
 <a href="https://fakubwoy.github.io/portfolio/"><img src="assets/hero.svg" width="100%" alt="Farhaan Khan, software engineer, with a Great Ball" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-16161A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzZBOTNGRiIgZD0iTTQuOTggMy41YTIuNSAyLjUgMCAxIDEgMCA1IDIuNSAyLjUgMCAwIDEgMC01ek0zIDkuNzVoNFYyMUgzek05LjUgOS43NWgzLjh2MS41NGguMDVjLjUzLTEgMS44My0yLjA1IDMuNzctMi4wNSA0LjAzIDAgNC43OCAyLjY1IDQuNzggNi4xVjIxaC00di00Ljk4YzAtMS4xOS0uMDItMi43Mi0xLjY2LTIuNzItMS42NiAwLTEuOTEgMS4zLTEuOTEgMi42M1YyMWgtNHoiLz48L3N2Zz4%3D)](https://linkedin.com/in/farhaan-khan-1629202b8)
 [![Portfolio](https://img.shields.io/badge/Portfolio-16161A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzZBOTNGRiIgZD0iTTEyIDJhMTAgMTAgMCAwIDEgMTAgOWgtNi4yYTQgNCAwIDAgMC03LjYgMEgyYTEwIDEwIDAgMCAxIDEwLTl6Ii8%2BPHBhdGggZmlsbD0iI0VERURFQSIgZD0iTTIgMTNoNi4yYTQgNCAwIDAgMCA3LjYgMEgyMmExMCAxMCAwIDAgMS0yMCAweiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjIuMiIgZmlsbD0iI0VERURFQSIvPjwvc3ZnPg%3D%3D)](https://fakubwoy.github.io/portfolio/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-16161A?style=for-the-badge&logo=leetcode&logoColor=6A93FF)](https://leetcode.com/Farhaan8586/)
 [![Email](https://img.shields.io/badge/Email-16161A?style=for-the-badge&logo=gmail&logoColor=6A93FF)](mailto:farhaan.khan.10987654321@gmail.com)
-[![X](https://img.shields.io/badge/X-16161A?style=for-the-badge&logo=x&logoColor=6A93FF)](https://x.com/fk8586)
 
 </div>
 
