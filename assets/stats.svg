@@ -4,8 +4,8 @@
 <rect width="1000" height="4" fill="#1E46C8"/>
 <text x="32" y="48" class="t">Farhaan Khan</text>
 <text x="968" y="48" class="a" text-anchor="end">IDNo. 121499000</text>
-<text x="32" y="88" class="k">Contributions, 12 months</text><text x="320" y="88" class="v" text-anchor="end">2,227</text>
-<text x="32" y="116" class="k">Current streak, days</text><text x="320" y="116" class="v" text-anchor="end">9</text>
+<text x="32" y="88" class="k">Contributions, 12 months</text><text x="320" y="88" class="v" text-anchor="end">2,228</text>
+<text x="32" y="116" class="k">Current streak, days</text><text x="320" y="116" class="v" text-anchor="end">10</text>
 <text x="32" y="144" class="k">Merged PRs, public</text><text x="320" y="144" class="v" text-anchor="end">20</text>
 <text x="32" y="172" class="k">Public repos</text><text x="320" y="172" class="v" text-anchor="end">49</text>
 <text x="32" y="200" class="k">Stars earned</text><text x="320" y="200" class="v" text-anchor="end">7</text>
@@ -365,6 +365,6 @@
 <rect x="954" y="112" width="10" height="10" fill="#1E46C8"/>
 <rect x="954" y="124" width="10" height="10" fill="#4470F0"/>
 <rect x="954" y="136" width="10" height="10" fill="#172E73"/>
-<rect x="954" y="148" width="10" height="10" fill="#1E1E24"/>
+<rect x="954" y="148" width="10" height="10" fill="#172E73"/>
 <text x="354" y="186" class="k">Last 12 months: every square is a day, brighter grass means more contributions</text>
 </svg>
