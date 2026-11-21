@@ -16,12 +16,12 @@ These six change every few hours. Pick one and it will be waiting for you on my 
 
 <!-- safari:start -->
 <p align="center">
-<a href="https://fakubwoy.github.io/portfolio/?wild=625"><img src="assets/cards/625.svg" width="15%" alt="Catch Bisharp" title="Catch Bisharp"></a>
-<a href="https://fakubwoy.github.io/portfolio/?wild=593"><img src="assets/cards/593.svg" width="15%" alt="Catch Jellicent Male" title="Catch Jellicent Male"></a>
-<a href="https://fakubwoy.github.io/portfolio/?wild=152"><img src="assets/cards/152.svg" width="15%" alt="Catch Chikorita" title="Catch Chikorita"></a>
-<a href="https://fakubwoy.github.io/portfolio/?wild=397"><img src="assets/cards/397.svg" width="15%" alt="Catch Staravia" title="Catch Staravia"></a>
-<a href="https://fakubwoy.github.io/portfolio/?wild=462"><img src="assets/cards/462.svg" width="15%" alt="Catch Magnezone" title="Catch Magnezone"></a>
-<a href="https://fakubwoy.github.io/portfolio/?wild=35"><img src="assets/cards/35.svg" width="15%" alt="Catch Clefairy" title="Catch Clefairy"></a>
+<a href="https://fakubwoy.github.io/portfolio/?wild=26"><img src="assets/cards/26.svg" width="15%" alt="Catch Raichu" title="Catch Raichu"></a>
+<a href="https://fakubwoy.github.io/portfolio/?wild=140"><img src="assets/cards/140.svg" width="15%" alt="Catch Kabuto" title="Catch Kabuto"></a>
+<a href="https://fakubwoy.github.io/portfolio/?wild=591"><img src="assets/cards/591.svg" width="15%" alt="Catch Amoonguss" title="Catch Amoonguss"></a>
+<a href="https://fakubwoy.github.io/portfolio/?wild=596"><img src="assets/cards/596.svg" width="15%" alt="Catch Galvantula" title="Catch Galvantula"></a>
+<a href="https://fakubwoy.github.io/portfolio/?wild=157"><img src="assets/cards/157.svg" width="15%" alt="Catch Typhlosion" title="Catch Typhlosion"></a>
+<a href="https://fakubwoy.github.io/portfolio/?wild=180"><img src="assets/cards/180.svg" width="15%" alt="Catch Flaaffy" title="Catch Flaaffy"></a>
 </p>
 <!-- safari:end -->
 
