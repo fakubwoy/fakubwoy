@@ -16,12 +16,12 @@ These six change every few hours. Pick one and it will be waiting for you on my 
 
 <!-- safari:start -->
 <p align="center">
-<a href="https://fakubwoy.github.io/portfolio/?wild=4"><img src="assets/cards/4.svg" width="15%" alt="Catch Charmander" title="Catch Charmander"></a>
-<a href="https://fakubwoy.github.io/portfolio/?wild=264"><img src="assets/cards/264.svg" width="15%" alt="Catch Linoone" title="Catch Linoone"></a>
-<a href="https://fakubwoy.github.io/portfolio/?wild=573"><img src="assets/cards/573.svg" width="15%" alt="Catch Cinccino" title="Catch Cinccino"></a>
-<a href="https://fakubwoy.github.io/portfolio/?wild=156"><img src="assets/cards/156.svg" width="15%" alt="Catch Quilava" title="Catch Quilava"></a>
-<a href="https://fakubwoy.github.io/portfolio/?wild=15"><img src="assets/cards/15.svg" width="15%" alt="Catch Beedrill" title="Catch Beedrill"></a>
-<a href="https://fakubwoy.github.io/portfolio/?wild=354"><img src="assets/cards/354.svg" width="15%" alt="Catch Banette" title="Catch Banette"></a>
+<a href="https://fakubwoy.github.io/portfolio/?wild=151"><img src="assets/cards/151.svg" width="15%" alt="Catch Mew" title="Catch Mew"></a>
+<a href="https://fakubwoy.github.io/portfolio/?wild=507"><img src="assets/cards/507.svg" width="15%" alt="Catch Herdier" title="Catch Herdier"></a>
+<a href="https://fakubwoy.github.io/portfolio/?wild=474"><img src="assets/cards/474.svg" width="15%" alt="Catch Porygon Z" title="Catch Porygon Z"></a>
+<a href="https://fakubwoy.github.io/portfolio/?wild=586"><img src="assets/cards/586.svg" width="15%" alt="Catch Sawsbuck" title="Catch Sawsbuck"></a>
+<a href="https://fakubwoy.github.io/portfolio/?wild=234"><img src="assets/cards/234.svg" width="15%" alt="Catch Stantler" title="Catch Stantler"></a>
+<a href="https://fakubwoy.github.io/portfolio/?wild=349"><img src="assets/cards/349.svg" width="15%" alt="Catch Feebas" title="Catch Feebas"></a>
 </p>
 <!-- safari:end -->
 
